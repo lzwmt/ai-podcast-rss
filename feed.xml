@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>程序员赚钱指南</title>
+    <link>https://lzwmt.github.io/ai-podcast-rss/</link>
+    <description>一个每天用 AI 工作的程序员，顺便研究怎么让钱生钱。覆盖 AI/科技 × 投资理财交叉领域，每期 5-8 分钟，轻松专业有观点。</description>
+    <language>zh-cn</language>
+    <copyright>© 2026 lzwmt</copyright>
+    <lastBuildDate>Tue, 20 May 2026 07:00:00 +0800</lastBuildDate>
+    <pubDate>Tue, 20 May 2026 07:00:00 +0800</pubDate>
+    <docs>https://help.apple.com/itc/podcasts_connect/#/itcb54353390</docs>
+    <itunes:author>lzwmt</itunes:author>
+    <itunes:summary>一个每天用 AI 工作的程序员，顺便研究怎么让钱生钱。覆盖 AI/科技 × 投资理财交叉领域，每期 5-8 分钟，轻松专业有观点。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>lzwmt</itunes:name>
+      <itunes:email>podcast@lzwmt.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://lzwmt.github.io/ai-podcast-rss/cover.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    <!-- Episode 01 -->
+    <item>
+      <title>EP01: 大模型时代的生存法则 — 从模型进化到基础设施</title>
+      <itunes:title>大模型时代的生存法则 — 从模型进化到基础设施</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>420</itunes:duration>
+      <itunes:summary>OpenAI 连放大招：GPT-5.2 定位专业日常、AWS/Cloudflare 全面接入、内部数据 Agent 实战、Atlas 防御提示注入。作为一线程序员，拆解这些消息对职业发展和赚钱机会的真实影响。末尾推荐 Cursor 编辑器。</itunes:summary>
+      <description><![CDATA[
+        <p>OpenAI 连放大招：GPT-5.2 定位专业日常、AWS/Cloudflare 全面接入、内部数据 Agent 实战、Atlas 防御提示注入。</p>
+        <p>作为一线程序员，拆解这些消息对职业发展和赚钱机会的真实影响。</p>
+        <p><strong>本期要点：</strong></p>
+        <ul>
+          <li>GPT-5.2：从助手进化为合伙人，调教 AI 比用 AI 更重要</li>
+          <li>云平台标准化集成：垂直领域创业的基础设施已就绪</li>
+          <li>数据 Agent 趋势：程序员要从写代码转向设计 AI 工作流</li>
+          <li>AI 安全：核心业务接入 AI 时的必选项</li>
+        </ul>
+        <p><strong>工具推荐：</strong> Cursor — AI 驱动的代码编辑器</p>
+      ]]></description>
+      <pubDate>Tue, 20 May 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://lzwmt.github.io/ai-podcast-rss/episodes/ep01.mp3" length="534285" type="audio/mpeg"/>
+      <link>https://lzwmt.github.io/ai-podcast-rss/</link>
+      <guid isPermaLink="false">ep01-20260520</guid>
+    </item>
+
+  </channel>
+</rss>

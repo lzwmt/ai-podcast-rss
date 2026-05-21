@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1400" viewBox="0 0 1400 1400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0a3e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7b2ff7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="1400" fill="url(#bg)"/>
+  <!-- Circuit pattern -->
+  <g stroke="#ffffff10" stroke-width="2" fill="none">
+    <path d="M100,100 L300,100 L300,300 L500,300"/>
+    <path d="M200,200 L200,400 L400,400"/>
+    <path d="M1100,100 L1300,100 L1300,300"/>
+    <path d="M1200,200 L1200,400 L1000,400"/>
+    <path d="M100,1100 L300,1100 L300,1300"/>
+    <path d="M200,1200 L200,1000 L400,1000"/>
+    <path d="M1100,1300 L1300,1300 L1300,1100"/>
+    <path d="M1200,1200 L1200,1000 L1000,1000"/>
+  </g>
+  <!-- Chart line -->
+  <polyline points="200,900 400,850 600,870 800,750 1000,700 1200,600" stroke="url(#accent)" stroke-width="4" fill="none" opacity="0.6"/>
+  <!-- Title -->
+  <text x="700" y="620" text-anchor="middle" fill="url(#accent)" font-size="96" font-weight="bold" font-family="system-ui, sans-serif">程序员</text>
+  <text x="700" y="750" text-anchor="middle" fill="#ffffff" font-size="96" font-weight="bold" font-family="system-ui, sans-serif">赚钱指南</text>
+  <!-- Subtitle -->
+  <text x="700" y="850" text-anchor="middle" fill="#888888" font-size="36" font-family="system-ui, sans-serif">AI × 投资 | 每天 5-8 分钟</text>
+</svg>
