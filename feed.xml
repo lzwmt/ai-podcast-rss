@@ -1,54 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:podcast="https://podcastindex.org/namespace/1.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>程序员赚钱指南</title>
+    <title>代码与财富</title>
     <link>https://lzwmt.github.io/ai-podcast-rss/</link>
-    <description>一个每天用 AI 工作的程序员，顺便研究怎么让钱生钱。覆盖 AI/科技 × 投资理财交叉领域，每期 5-8 分钟，轻松专业有观点。</description>
+    <description>一个程序员用AI工具研究投资的实操记录。用代码理解世界，用AI管好钱包。覆盖AI投资工具箱、AI投资实验、程序员投资思维，每期15-20分钟。</description>
     <language>zh-cn</language>
     <copyright>© 2026 lzwmt</copyright>
-    <lastBuildDate>Tue, 20 May 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 10:17:53 +0800</lastBuildDate>
     <pubDate>Tue, 20 May 2026 07:00:00 +0800</pubDate>
     <docs>https://help.apple.com/itc/podcasts_connect/#/itcb54353390</docs>
-    <itunes:author>lzwmt</itunes:author>
-    <itunes:summary>一个每天用 AI 工作的程序员，顺便研究怎么让钱生钱。覆盖 AI/科技 × 投资理财交叉领域，每期 5-8 分钟，轻松专业有观点。</itunes:summary>
-    <itunes:owner>
-      <itunes:name>lzwmt</itunes:name>
-      <itunes:email>podcast@lzwmt.com</itunes:email>
-    </itunes:owner>
-    <itunes:image href="https://lzwmt.github.io/ai-podcast-rss/cover.png"/>
-    <itunes:category text="Technology"/>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:type>episodic</itunes:type>
+    <ns0:author>lzwmt</ns0:author>
+    <ns0:summary>一个程序员用AI工具研究投资的实操记录。用代码理解世界，用AI管好钱包。覆盖AI投资工具箱、AI投资实验、程序员投资思维，每期15-20分钟。</ns0:summary>
+    <ns0:owner>
+      <ns0:name>lzwmt</ns0:name>
+      <ns0:email>podcast@lzwmt.com</ns0:email>
+    </ns0:owner>
+    <ns0:image href="https://lzwmt.github.io/ai-podcast-rss/cover.png" />
+    <ns0:category text="Technology" />
+    <ns0:explicit>false</ns0:explicit>
+    <ns0:type>episodic</ns0:type>
 
-    <!-- Episode 01 -->
+    
     <item>
       <title>EP01: 大模型时代的生存法则 — 从模型进化到基础设施</title>
-      <itunes:title>大模型时代的生存法则 — 从模型进化到基础设施</itunes:title>
-      <itunes:episode>1</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>420</itunes:duration>
-      <itunes:summary>OpenAI 连放大招：GPT-5.2 定位专业日常、AWS/Cloudflare 全面接入、内部数据 Agent 实战、Atlas 防御提示注入。作为一线程序员，拆解这些消息对职业发展和赚钱机会的真实影响。末尾推荐 Cursor 编辑器。</itunes:summary>
-      <description><![CDATA[
-        <p>OpenAI 连放大招：GPT-5.2 定位专业日常、AWS/Cloudflare 全面接入、内部数据 Agent 实战、Atlas 防御提示注入。</p>
-        <p>作为一线程序员，拆解这些消息对职业发展和赚钱机会的真实影响。</p>
-        <p><strong>本期要点：</strong></p>
-        <ul>
-          <li>GPT-5.2：从助手进化为合伙人，调教 AI 比用 AI 更重要</li>
-          <li>云平台标准化集成：垂直领域创业的基础设施已就绪</li>
-          <li>数据 Agent 趋势：程序员要从写代码转向设计 AI 工作流</li>
-          <li>AI 安全：核心业务接入 AI 时的必选项</li>
-        </ul>
-        <p><strong>工具推荐：</strong> Cursor — AI 驱动的代码编辑器</p>
-      ]]></description>
+      <ns0:title>大模型时代的生存法则 — 从模型进化到基础设施</ns0:title>
+      <ns0:episode>1</ns0:episode>
+      <ns0:season>1</ns0:season>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:duration>420</ns0:duration>
+      <ns0:summary>OpenAI 连放大招：GPT-5.2 定位专业日常、AWS/Cloudflare 全面接入、内部数据 Agent 实战、Atlas 防御提示注入。作为一线程序员，拆解这些消息对职业发展和赚钱机会的真实影响。末尾推荐 Cursor 编辑器。</ns0:summary>
+      <description>
+        &lt;p&gt;OpenAI 连放大招：GPT-5.2 定位专业日常、AWS/Cloudflare 全面接入、内部数据 Agent 实战、Atlas 防御提示注入。&lt;/p&gt;
+        &lt;p&gt;作为一线程序员，拆解这些消息对职业发展和赚钱机会的真实影响。&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;本期要点：&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt;
+          &lt;li&gt;GPT-5.2：从助手进化为合伙人，调教 AI 比用 AI 更重要&lt;/li&gt;
+          &lt;li&gt;云平台标准化集成：垂直领域创业的基础设施已就绪&lt;/li&gt;
+          &lt;li&gt;数据 Agent 趋势：程序员要从写代码转向设计 AI 工作流&lt;/li&gt;
+          &lt;li&gt;AI 安全：核心业务接入 AI 时的必选项&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;工具推荐：&lt;/strong&gt; Cursor — AI 驱动的代码编辑器&lt;/p&gt;
+      </description>
       <pubDate>Tue, 20 May 2026 07:00:00 +0800</pubDate>
-      <enclosure url="https://lzwmt.github.io/ai-podcast-rss/episodes/ep01.mp3" length="534285" type="audio/mpeg"/>
+      <enclosure url="https://lzwmt.github.io/ai-podcast-rss/episodes/ep01.mp3" length="534285" type="audio/mpeg" />
       <link>https://lzwmt.github.io/ai-podcast-rss/</link>
       <guid isPermaLink="false">ep01-20260520</guid>
     </item>
 
-  </channel>
+  <item><title>EP02: 大家好，欢迎收听今天的节目。今天我想聊一个最近让我挺纠结的事...</title><ns0:title>EP02: 大家好，欢迎收听今天的节目。今天我想聊一个最近让我挺纠结的事...</ns0:title><ns0:episode>2</ns0:episode><ns0:duration>179</ns0:duration><ns0:summary>大家好，欢迎收听今天的节目。今天我想聊一个最近让我挺纠结的事，AI工具到底是帮我们提效了，还是让我们变得更懒了？这个问题我琢磨了好一阵，今天结合几条新闻跟大家聊聊我的想法。</ns0:summary><description>大家好，欢迎收听今天的节目。今天我想聊一个最近让我挺纠结的事，AI工具到底是帮我们提效了，还是让我们变得更懒了？这个问题我琢磨了好一阵，今天结合几条新闻跟大家聊聊我的想法。</description><pubDate>Thu, 21 May 2026 10:17:53 +0800</pubDate><enclosure url="https://lzwmt.github.io/ai-podcast-rss/episodes/test_e2e.mp3" length="1972897" type="audio/mpeg" /><link>https://lzwmt.github.io/ai-podcast-rss</link><guid isPermaLink="false">ep02-20260521</guid></item></channel>
 </rss>
