@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>代码与财富</title>
     <link>https://lzwmt.github.io/ai-podcast-rss/</link>
     <description>一个程序员用AI工具研究投资的实操记录。用代码理解世界，用AI管好钱包。覆盖AI投资工具箱、AI投资实验、程序员投资思维，每期15-20分钟。</description>
     <language>zh-cn</language>
     <copyright>© 2026 lzwmt</copyright>
-    <lastBuildDate>Fri, 22 May 2026 09:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 21:30:27 +0800</lastBuildDate>
     <pubDate>Fri, 22 May 2026 01:28:47 +0800</pubDate>
     <docs>https://help.apple.com/itc/podcasts_connect/#/itcb54353390</docs>
-    <ns0:author>lzwmt</ns0:author>
-    <ns0:summary>一个程序员用AI工具研究投资的实操记录。用代码理解世界，用AI管好钱包。覆盖AI投资工具箱、AI投资实验、程序员投资思维，每期15-20分钟。</ns0:summary>
-    <ns0:owner>
-      <ns0:name>lzwmt</ns0:name>
-      <ns0:email>podcast@lzwmt.com</ns0:email>
-    </ns0:owner>
-    <ns0:image href="https://lzwmt.github.io/ai-podcast-rss/cover.png" />
-    <ns0:category text="Technology" />
-    <ns0:explicit>false</ns0:explicit>
-    <ns0:type>episodic</ns0:type>
+    <itunes:author>lzwmt</itunes:author>
+    <itunes:summary>一个程序员用AI工具研究投资的实操记录。用代码理解世界，用AI管好钱包。覆盖AI投资工具箱、AI投资实验、程序员投资思维，每期15-20分钟。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>lzwmt</itunes:name>
+      <itunes:email>podcast@lzwmt.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://lzwmt.github.io/ai-podcast-rss/cover.png" />
+    <itunes:category text="Technology" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
 
-    <item>
+    <item><title>EP03: 让智能体看见世界：CV × AI Agent 的行业场景新实践| 2026AI Partner·北京亦庄</title><itunes:title>让智能体看见世界：CV × AI Agent 的行业场景新实践| 2026AI Partner·北京亦庄</itunes:title><itunes:episode>3</itunes:episode><itunes:season>1</itunes:season><itunes:episodeType>full</itunes:episodeType><itunes:duration>541</itunes:duration><itunes:summary>让智能体“看见”世界，不是给它装上摄像头那么简单。当CV遇上AI Agent，乘数效应正在发生。AI Agent不等于Chatbot，真正的价值在于静默看护与自主决策。 AI进入产业腹地仍面临两大鸿沟：视觉认知与行业的理解。为此，大华股份构建了星汉大模型系列——V系列视觉大模型让系统“看得懂”物理世界，L系列行业模型打通业务逻辑。未来“基模+行业Know-how”将成为新范式，而AI的终局不是刷榜，是让每个行业、每个个体都不掉队。 以下为大华股份研发中心副总裁 周文凯 演讲内容，经36氪整理编辑： 周文凯丨大华股份</itunes:summary><description>&lt;p&gt;让智能体“看见”世界，不是给它装上摄像头那么简单。当CV遇上AI Agent，乘数效应正在发生。AI Agent不等于Chatbot，真正的价值在于静默看护与自主决策。 AI进入产业腹地仍面临两大鸿沟：视觉认知与行业的理解。为此，大华股份构建了星汉大模型系列——V系列视觉大模型让系统“看得懂”物理世界，L系列行业模型打通业务逻辑。未来“基模+行业Know-how”将成为新范式，而AI的终局不是刷榜，是让每个行业、每个个体都不掉队。 以下为大华股份研发中心副总裁 周文凯 演讲内容，经36氪整理编辑： 周文凯丨大华股份&lt;/p&gt;</description><pubDate>Fri, 22 May 2026 21:30:27 +0800</pubDate><enclosure url="https://lzwmt.github.io/ai-podcast-rss/episodes/ep03.mp3" length="3370260" type="audio/mpeg" /><link>https://lzwmt.github.io/ai-podcast-rss/</link><guid isPermaLink="false">ep03-20260522</guid></item><item>
       <title>EP02: 高盛点评英伟达、芯片股获利了结、理财费率归零 — 普通人怎么管钱</title>
-      <ns0:title>高盛点评英伟达、芯片股获利了结、理财费率归零 — 普通人怎么管钱</ns0:title>
-      <ns0:episode>2</ns0:episode>
-      <ns0:season>1</ns0:season>
-      <ns0:episodeType>full</ns0:episodeType>
-      <ns0:duration>588</ns0:duration>
-      <ns0:summary>高盛点评英伟达财报：AI算力资本支出浪潮未到顶；对冲基金对芯片股获利了结，半导体成净卖出最多方向；理财产品费率卷到0%。三件事回答同一个问题：市场既为AI兴奋又担心回调时，普通人该怎么管钱。</ns0:summary>
+      <itunes:title>高盛点评英伟达、芯片股获利了结、理财费率归零 — 普通人怎么管钱</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>588</itunes:duration>
+      <itunes:summary>高盛点评英伟达财报：AI算力资本支出浪潮未到顶；对冲基金对芯片股获利了结，半导体成净卖出最多方向；理财产品费率卷到0%。三件事回答同一个问题：市场既为AI兴奋又担心回调时，普通人该怎么管钱。</itunes:summary>
       <description>
         &lt;p&gt;高盛点评英伟达财报：AI算力资本支出浪潮未到顶；对冲基金对芯片股获利了结，半导体成净卖出最多方向；理财产品费率卷到0%。&lt;/p&gt;
         &lt;p&gt;三件事回答同一个问题：市场既为AI兴奋又担心回调时，普通人该怎么管钱。&lt;/p&gt;
@@ -47,12 +47,12 @@
 
     <item>
       <title>EP01: 大模型时代的生存法则 — 从模型进化到基础设施</title>
-      <ns0:title>大模型时代的生存法则 — 从模型进化到基础设施</ns0:title>
-      <ns0:episode>1</ns0:episode>
-      <ns0:season>1</ns0:season>
-      <ns0:episodeType>full</ns0:episodeType>
-      <ns0:duration>420</ns0:duration>
-      <ns0:summary>OpenAI 连放大招：GPT-5.2 定位专业日常、AWS/Cloudflare 全面接入、内部数据 Agent 实战、Atlas 防御提示注入。作为一线程序员，拆解这些消息对职业发展和赚钱机会的真实影响。末尾推荐 Cursor 编辑器。</ns0:summary>
+      <itunes:title>大模型时代的生存法则 — 从模型进化到基础设施</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>420</itunes:duration>
+      <itunes:summary>OpenAI 连放大招：GPT-5.2 定位专业日常、AWS/Cloudflare 全面接入、内部数据 Agent 实战、Atlas 防御提示注入。作为一线程序员，拆解这些消息对职业发展和赚钱机会的真实影响。末尾推荐 Cursor 编辑器。</itunes:summary>
       <description>
         &lt;p&gt;OpenAI 连放大招：GPT-5.2 定位专业日常、AWS/Cloudflare 全面接入、内部数据 Agent 实战、Atlas 防御提示注入。&lt;/p&gt;
         &lt;p&gt;作为一线程序员，拆解这些消息对职业发展和赚钱机会的真实影响。&lt;/p&gt;
